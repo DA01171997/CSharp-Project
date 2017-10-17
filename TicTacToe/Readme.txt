@@ -6,7 +6,7 @@
 //Purpose: Creating a UI Tic Tac Toe Game. Choose a Player X or O to go first. For new game press New.  
 //Date last Modified: 10/17/2017 
 //Source Files in this program: TicTacToeframe.cs, TicTacToemain.cs, run.sh
-//Compile and execute program by typing ./run.sh in to respective terminal 
+//Compile and execute program in Bash Shell. Type ./run.sh in to respective directory's terminal. 
 
 
 
